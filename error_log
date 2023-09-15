@@ -1,0 +1,423 @@
+[20-Feb-2023 16:05:06 UTC] PHP Warning:  Constant HDOM_TYPE_ELEMENT already defined in /home/feegosys/donhuron.shop/wp-content/plugins/gallery-custom-links/vendor/kub-at/php-simple-html-dom-parser/src/KubAT/PhpSimple/lib/simple_html_dom.php on line 26
+[20-Feb-2023 16:05:06 UTC] PHP Warning:  Constant HDOM_TYPE_COMMENT already defined in /home/feegosys/donhuron.shop/wp-content/plugins/gallery-custom-links/vendor/kub-at/php-simple-html-dom-parser/src/KubAT/PhpSimple/lib/simple_html_dom.php on line 27
+[20-Feb-2023 16:05:06 UTC] PHP Warning:  Constant HDOM_TYPE_TEXT already defined in /home/feegosys/donhuron.shop/wp-content/plugins/gallery-custom-links/vendor/kub-at/php-simple-html-dom-parser/src/KubAT/PhpSimple/lib/simple_html_dom.php on line 28
+[20-Feb-2023 16:05:06 UTC] PHP Warning:  Constant HDOM_TYPE_ENDTAG already defined in /home/feegosys/donhuron.shop/wp-content/plugins/gallery-custom-links/vendor/kub-at/php-simple-html-dom-parser/src/KubAT/PhpSimple/lib/simple_html_dom.php on line 29
+[20-Feb-2023 16:05:06 UTC] PHP Warning:  Constant HDOM_TYPE_ROOT already defined in /home/feegosys/donhuron.shop/wp-content/plugins/gallery-custom-links/vendor/kub-at/php-simple-html-dom-parser/src/KubAT/PhpSimple/lib/simple_html_dom.php on line 30
+[20-Feb-2023 16:05:06 UTC] PHP Warning:  Constant HDOM_TYPE_UNKNOWN already defined in /home/feegosys/donhuron.shop/wp-content/plugins/gallery-custom-links/vendor/kub-at/php-simple-html-dom-parser/src/KubAT/PhpSimple/lib/simple_html_dom.php on line 31
+[20-Feb-2023 16:05:06 UTC] PHP Warning:  Constant HDOM_QUOTE_DOUBLE already defined in /home/feegosys/donhuron.shop/wp-content/plugins/gallery-custom-links/vendor/kub-at/php-simple-html-dom-parser/src/KubAT/PhpSimple/lib/simple_html_dom.php on line 32
+[20-Feb-2023 16:05:06 UTC] PHP Warning:  Constant HDOM_QUOTE_SINGLE already defined in /home/feegosys/donhuron.shop/wp-content/plugins/gallery-custom-links/vendor/kub-at/php-simple-html-dom-parser/src/KubAT/PhpSimple/lib/simple_html_dom.php on line 33
+[20-Feb-2023 16:05:06 UTC] PHP Warning:  Constant HDOM_QUOTE_NO already defined in /home/feegosys/donhuron.shop/wp-content/plugins/gallery-custom-links/vendor/kub-at/php-simple-html-dom-parser/src/KubAT/PhpSimple/lib/simple_html_dom.php on line 34
+[20-Feb-2023 16:05:06 UTC] PHP Warning:  Constant HDOM_INFO_BEGIN already defined in /home/feegosys/donhuron.shop/wp-content/plugins/gallery-custom-links/vendor/kub-at/php-simple-html-dom-parser/src/KubAT/PhpSimple/lib/simple_html_dom.php on line 35
+[20-Feb-2023 16:05:06 UTC] PHP Warning:  Constant HDOM_INFO_END already defined in /home/feegosys/donhuron.shop/wp-content/plugins/gallery-custom-links/vendor/kub-at/php-simple-html-dom-parser/src/KubAT/PhpSimple/lib/simple_html_dom.php on line 36
+[20-Feb-2023 16:05:06 UTC] PHP Warning:  Constant HDOM_INFO_QUOTE already defined in /home/feegosys/donhuron.shop/wp-content/plugins/gallery-custom-links/vendor/kub-at/php-simple-html-dom-parser/src/KubAT/PhpSimple/lib/simple_html_dom.php on line 37
+[20-Feb-2023 16:05:06 UTC] PHP Warning:  Constant HDOM_INFO_SPACE already defined in /home/feegosys/donhuron.shop/wp-content/plugins/gallery-custom-links/vendor/kub-at/php-simple-html-dom-parser/src/KubAT/PhpSimple/lib/simple_html_dom.php on line 38
+[20-Feb-2023 16:05:06 UTC] PHP Warning:  Constant HDOM_INFO_TEXT already defined in /home/feegosys/donhuron.shop/wp-content/plugins/gallery-custom-links/vendor/kub-at/php-simple-html-dom-parser/src/KubAT/PhpSimple/lib/simple_html_dom.php on line 39
+[20-Feb-2023 16:05:06 UTC] PHP Warning:  Constant HDOM_INFO_INNER already defined in /home/feegosys/donhuron.shop/wp-content/plugins/gallery-custom-links/vendor/kub-at/php-simple-html-dom-parser/src/KubAT/PhpSimple/lib/simple_html_dom.php on line 40
+[20-Feb-2023 16:05:06 UTC] PHP Warning:  Constant HDOM_INFO_OUTER already defined in /home/feegosys/donhuron.shop/wp-content/plugins/gallery-custom-links/vendor/kub-at/php-simple-html-dom-parser/src/KubAT/PhpSimple/lib/simple_html_dom.php on line 41
+[20-Feb-2023 16:05:06 UTC] PHP Warning:  Constant HDOM_INFO_ENDSPACE already defined in /home/feegosys/donhuron.shop/wp-content/plugins/gallery-custom-links/vendor/kub-at/php-simple-html-dom-parser/src/KubAT/PhpSimple/lib/simple_html_dom.php on line 42
+[20-Feb-2023 16:05:06 UTC] PHP Warning:  Constant HDOM_SMARTY_AS_TEXT already defined in /home/feegosys/donhuron.shop/wp-content/plugins/gallery-custom-links/vendor/kub-at/php-simple-html-dom-parser/src/KubAT/PhpSimple/lib/simple_html_dom.php on line 48
+[14-Mar-2023 07:29:58 UTC] PDOException: SQLSTATE[HY000]: General error: 2014 Cannot execute queries while other unbuffered queries are active.  Consider using PDOStatement::fetchAll().  Alternatively, if your code is only ever going to run against mysql, you may enable query buffering by setting the PDO::MYSQL_ATTR_USE_BUFFERED_QUERY attribute. in /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Database/StatementWrapper.php:145
+Stack trace:
+#0 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Database/StatementWrapper.php(145): PDOStatement->execute(Array)
+#1 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Database/Query/Delete.php(59): Drupal\Core\Database\StatementWrapper->execute(Array, Array)
+#2 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Lock/DatabaseLockBackend.php(170): Drupal\Core\Database\Query\Delete->execute()
+#3 /home/feegosys/decannabis.shop/core/includes/bootstrap.inc(734): Drupal\Core\Lock\DatabaseLockBackend->releaseAll()
+#4 [internal function]: _drupal_shutdown_function()
+#5 {main}
+
+Next Drupal\Core\Database\DatabaseExceptionWrapper: SQLSTATE[HY000]: General error: 2014 Cannot execute queries while other unbuffered queries are active.  Consider using PDOStatement::fetchAll().  Alternatively, if your code is only ever going to run against mysql, you may enable query buffering by setting the PDO::MYSQL_ATTR_USE_BUFFERED_QUERY attribute.: DELETE FROM "drup_semaphore" 
+WHERE "value" = :db_condition_placeholder_0; Array
+(
+    [:db_condition_placeholder_0] => 60770595264102276b13775.51420605
+)
+ in /home/feegosys/decannabis.shop/core/modules/mysql/src/Driver/Database/mysql/ExceptionHandler.php:53
+Stack trace:
+#0 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Database/Query/Delete.php(63): Drupal\mysql\Driver\Database\mysql\ExceptionHandler->handleExecutionException(Object(PDOException), Object(Drupal\Core\Database\StatementWrapper), Array, Array)
+#1 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Lock/DatabaseLockBackend.php(170): Drupal\Core\Database\Query\Delete->execute()
+#2 /home/feegosys/decannabis.shop/core/includes/bootstrap.inc(734): Drupal\Core\Lock\DatabaseLockBackend->releaseAll()
+#3 [internal function]: _drupal_shutdown_function()
+#4 {main}
+[11-May-2023 10:54:11 UTC] PDOException: SQLSTATE[08004] [1040] Too many connections in /home/feegosys/decannabis.shop/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/feegosys/decannabis.shop/core/modules/mysql/src/Driver/Database/mysql/Connection.php(189): PDO->__construct('mysql:host=loca...', 'feegosys_drup3', 'X.ujUmeZGarWvRk...', Array)
+#1 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Database/Database.php(464): Drupal\mysql\Driver\Database\mysql\Connection::open(Array)
+#2 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Database/Database.php(189): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/feegosys/decannabis.shop/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/feegosys/decannabis.shop/core/lib/Drupal/Component/DependencyInjection/Container.php(176): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/feegosys/decannabis.shop/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(212): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/feegosys/decannabis.shop/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/feegosys/decannabis.shop/core/lib/Drupal/Component/DependencyInjection/Container.php(176): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/DrupalKernel.php(550): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/DrupalKernel.php(895): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/DrupalKernel.php(472): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/DrupalKernel.php(708): Drupal\Core\DrupalKernel->boot()
+#13 /home/feegosys/decannabis.shop/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[25-May-2023 20:03:36 UTC] PDOException: SQLSTATE[08004] [1040] Too many connections in /home/feegosys/decannabis.shop/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/feegosys/decannabis.shop/core/modules/mysql/src/Driver/Database/mysql/Connection.php(189): PDO->__construct('mysql:host=loca...', 'feegosys_drup3', 'X.ujUmeZGarWvRk...', Array)
+#1 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Database/Database.php(464): Drupal\mysql\Driver\Database\mysql\Connection::open(Array)
+#2 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Database/Database.php(189): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/feegosys/decannabis.shop/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/feegosys/decannabis.shop/core/lib/Drupal/Component/DependencyInjection/Container.php(176): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/feegosys/decannabis.shop/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(212): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/feegosys/decannabis.shop/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/feegosys/decannabis.shop/core/lib/Drupal/Component/DependencyInjection/Container.php(176): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/DrupalKernel.php(550): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/DrupalKernel.php(895): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/DrupalKernel.php(472): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/DrupalKernel.php(708): Drupal\Core\DrupalKernel->boot()
+#13 /home/feegosys/decannabis.shop/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[17-Jul-2023 03:42:02 UTC] PHP Warning:  Constant HDOM_TYPE_ELEMENT already defined in /home/feegosys/donhuron.shop/wp-content/plugins/gallery-custom-links/vendor/kub-at/php-simple-html-dom-parser/src/KubAT/PhpSimple/lib/simple_html_dom.php on line 26
+[17-Jul-2023 03:42:02 UTC] PHP Warning:  Constant HDOM_TYPE_COMMENT already defined in /home/feegosys/donhuron.shop/wp-content/plugins/gallery-custom-links/vendor/kub-at/php-simple-html-dom-parser/src/KubAT/PhpSimple/lib/simple_html_dom.php on line 27
+[17-Jul-2023 03:42:02 UTC] PHP Warning:  Constant HDOM_TYPE_TEXT already defined in /home/feegosys/donhuron.shop/wp-content/plugins/gallery-custom-links/vendor/kub-at/php-simple-html-dom-parser/src/KubAT/PhpSimple/lib/simple_html_dom.php on line 28
+[17-Jul-2023 03:42:02 UTC] PHP Warning:  Constant HDOM_TYPE_ENDTAG already defined in /home/feegosys/donhuron.shop/wp-content/plugins/gallery-custom-links/vendor/kub-at/php-simple-html-dom-parser/src/KubAT/PhpSimple/lib/simple_html_dom.php on line 29
+[17-Jul-2023 03:42:02 UTC] PHP Warning:  Constant HDOM_TYPE_ROOT already defined in /home/feegosys/donhuron.shop/wp-content/plugins/gallery-custom-links/vendor/kub-at/php-simple-html-dom-parser/src/KubAT/PhpSimple/lib/simple_html_dom.php on line 30
+[17-Jul-2023 03:42:02 UTC] PHP Warning:  Constant HDOM_TYPE_UNKNOWN already defined in /home/feegosys/donhuron.shop/wp-content/plugins/gallery-custom-links/vendor/kub-at/php-simple-html-dom-parser/src/KubAT/PhpSimple/lib/simple_html_dom.php on line 31
+[17-Jul-2023 03:42:02 UTC] PHP Warning:  Constant HDOM_QUOTE_DOUBLE already defined in /home/feegosys/donhuron.shop/wp-content/plugins/gallery-custom-links/vendor/kub-at/php-simple-html-dom-parser/src/KubAT/PhpSimple/lib/simple_html_dom.php on line 32
+[17-Jul-2023 03:42:02 UTC] PHP Warning:  Constant HDOM_QUOTE_SINGLE already defined in /home/feegosys/donhuron.shop/wp-content/plugins/gallery-custom-links/vendor/kub-at/php-simple-html-dom-parser/src/KubAT/PhpSimple/lib/simple_html_dom.php on line 33
+[17-Jul-2023 03:42:02 UTC] PHP Warning:  Constant HDOM_QUOTE_NO already defined in /home/feegosys/donhuron.shop/wp-content/plugins/gallery-custom-links/vendor/kub-at/php-simple-html-dom-parser/src/KubAT/PhpSimple/lib/simple_html_dom.php on line 34
+[17-Jul-2023 03:42:02 UTC] PHP Warning:  Constant HDOM_INFO_BEGIN already defined in /home/feegosys/donhuron.shop/wp-content/plugins/gallery-custom-links/vendor/kub-at/php-simple-html-dom-parser/src/KubAT/PhpSimple/lib/simple_html_dom.php on line 35
+[17-Jul-2023 03:42:02 UTC] PHP Warning:  Constant HDOM_INFO_END already defined in /home/feegosys/donhuron.shop/wp-content/plugins/gallery-custom-links/vendor/kub-at/php-simple-html-dom-parser/src/KubAT/PhpSimple/lib/simple_html_dom.php on line 36
+[17-Jul-2023 03:42:02 UTC] PHP Warning:  Constant HDOM_INFO_QUOTE already defined in /home/feegosys/donhuron.shop/wp-content/plugins/gallery-custom-links/vendor/kub-at/php-simple-html-dom-parser/src/KubAT/PhpSimple/lib/simple_html_dom.php on line 37
+[17-Jul-2023 03:42:02 UTC] PHP Warning:  Constant HDOM_INFO_SPACE already defined in /home/feegosys/donhuron.shop/wp-content/plugins/gallery-custom-links/vendor/kub-at/php-simple-html-dom-parser/src/KubAT/PhpSimple/lib/simple_html_dom.php on line 38
+[17-Jul-2023 03:42:02 UTC] PHP Warning:  Constant HDOM_INFO_TEXT already defined in /home/feegosys/donhuron.shop/wp-content/plugins/gallery-custom-links/vendor/kub-at/php-simple-html-dom-parser/src/KubAT/PhpSimple/lib/simple_html_dom.php on line 39
+[17-Jul-2023 03:42:02 UTC] PHP Warning:  Constant HDOM_INFO_INNER already defined in /home/feegosys/donhuron.shop/wp-content/plugins/gallery-custom-links/vendor/kub-at/php-simple-html-dom-parser/src/KubAT/PhpSimple/lib/simple_html_dom.php on line 40
+[17-Jul-2023 03:42:02 UTC] PHP Warning:  Constant HDOM_INFO_OUTER already defined in /home/feegosys/donhuron.shop/wp-content/plugins/gallery-custom-links/vendor/kub-at/php-simple-html-dom-parser/src/KubAT/PhpSimple/lib/simple_html_dom.php on line 41
+[17-Jul-2023 03:42:02 UTC] PHP Warning:  Constant HDOM_INFO_ENDSPACE already defined in /home/feegosys/donhuron.shop/wp-content/plugins/gallery-custom-links/vendor/kub-at/php-simple-html-dom-parser/src/KubAT/PhpSimple/lib/simple_html_dom.php on line 42
+[17-Jul-2023 03:42:02 UTC] PHP Warning:  Constant HDOM_SMARTY_AS_TEXT already defined in /home/feegosys/donhuron.shop/wp-content/plugins/gallery-custom-links/vendor/kub-at/php-simple-html-dom-parser/src/KubAT/PhpSimple/lib/simple_html_dom.php on line 48
+[18-Jul-2023 23:31:44 UTC] PHP Fatal error:  Cannot redeclare ckeditor_help() (previously declared in /home/feegosys/decannabis.shop/core/modules/ckeditor/ckeditor.module:19) in /home/feegosys/decannabis.shop/modules/ckeditor/ckeditor.module on line 22
+[18-Jul-2023 23:39:04 UTC] PHP Fatal error:  Cannot redeclare ckeditor_help() (previously declared in /home/feegosys/decannabis.shop/modules/ckeditor/ckeditor.module:22) in /home/feegosys/decannabis.shop/modules/contrib/ckeditor/ckeditor.module on line 22
+[18-Jul-2023 23:51:46 UTC] Error: Class "Drupal\ckeditor\CKEditorPluginManager" not found in /home/feegosys/decannabis.shop/core/lib/Drupal/Component/DependencyInjection/Container.php on line 262 #0 /home/feegosys/decannabis.shop/core/lib/Drupal/Component/DependencyInjection/Container.php(176): Drupal\Component\DependencyInjection\Container->createService(Array, 'plugin.manager....')
+#1 /home/feegosys/decannabis.shop/core/lib/Drupal/Component/DependencyInjection/Container.php(437): Drupal\Component\DependencyInjection\Container->get('plugin.manager....', 1)
+#2 /home/feegosys/decannabis.shop/core/lib/Drupal/Component/DependencyInjection/Container.php(276): Drupal\Component\DependencyInjection\Container->resolveServicesAndParameters(Array)
+#3 /home/feegosys/decannabis.shop/core/lib/Drupal/Component/DependencyInjection/Container.php(176): Drupal\Component\DependencyInjection\Container->createService(Array, 'plugin.cache_cl...')
+#4 /home/feegosys/decannabis.shop/modules/admin_toolbar/admin_toolbar_tools/src/Controller/ToolbarController.php(180): Drupal\Component\DependencyInjection\Container->get('plugin.cache_cl...')
+#5 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/DependencyInjection/ClassResolver.php(28): Drupal\admin_toolbar_tools\Controller\ToolbarController::create(Object(Drupal\Core\DependencyInjection\Container))
+#6 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Controller/ControllerResolver.php(117): Drupal\Core\DependencyInjection\ClassResolver->getInstanceFromDefinition('\\Drupal\\admin_t...')
+#7 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Controller/ControllerResolver.php(69): Drupal\Core\Controller\ControllerResolver->createController('\\Drupal\\admin_t...')
+#8 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Controller/ControllerResolver.php(85): Drupal\Core\Controller\ControllerResolver->getControllerFromDefinition('\\Drupal\\admin_t...', '/admin/flush')
+#9 /home/feegosys/decannabis.shop/vendor/symfony/http-kernel/HttpKernel.php(142): Drupal\Core\Controller\ControllerResolver->getController(Object(Symfony\Component\HttpFoundation\Request))
+#10 /home/feegosys/decannabis.shop/vendor/symfony/http-kernel/HttpKernel.php(81): Symfony\Component\HttpKernel\HttpKernel->handleRaw(Object(Symfony\Component\HttpFoundation\Request), 1)
+#11 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/StackMiddleware/Session.php(58): Symfony\Component\HttpKernel\HttpKernel->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#12 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/StackMiddleware/KernelPreHandle.php(48): Drupal\Core\StackMiddleware\Session->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#13 /home/feegosys/decannabis.shop/core/modules/page_cache/src/StackMiddleware/PageCache.php(106): Drupal\Core\StackMiddleware\KernelPreHandle->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#14 /home/feegosys/decannabis.shop/core/modules/page_cache/src/StackMiddleware/PageCache.php(85): Drupal\page_cache\StackMiddleware\PageCache->pass(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#15 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/StackMiddleware/ReverseProxyMiddleware.php(48): Drupal\page_cache\StackMiddleware\PageCache->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#16 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/StackMiddleware/NegotiationMiddleware.php(51): Drupal\Core\StackMiddleware\ReverseProxyMiddleware->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#17 /home/feegosys/decannabis.shop/vendor/stack/builder/src/Stack/StackedHttpKernel.php(23): Drupal\Core\StackMiddleware\NegotiationMiddleware->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#18 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/DrupalKernel.php(709): Stack\StackedHttpKernel->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#19 /home/feegosys/decannabis.shop/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#20 {main}
+[03-Aug-2023 03:54:58 UTC] PDOException: SQLSTATE[HY000]: General error: 2014 Cannot execute queries while other unbuffered queries are active.  Consider using PDOStatement::fetchAll().  Alternatively, if your code is only ever going to run against mysql, you may enable query buffering by setting the PDO::MYSQL_ATTR_USE_BUFFERED_QUERY attribute. in /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Database/StatementWrapper.php:145
+Stack trace:
+#0 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Database/StatementWrapper.php(145): PDOStatement->execute(Array)
+#1 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Database/Query/Delete.php(59): Drupal\Core\Database\StatementWrapper->execute(Array, Array)
+#2 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Lock/DatabaseLockBackend.php(170): Drupal\Core\Database\Query\Delete->execute()
+#3 /home/feegosys/decannabis.shop/core/includes/bootstrap.inc(734): Drupal\Core\Lock\DatabaseLockBackend->releaseAll()
+#4 [internal function]: _drupal_shutdown_function()
+#5 {main}
+
+Next Drupal\Core\Database\DatabaseExceptionWrapper: SQLSTATE[HY000]: General error: 2014 Cannot execute queries while other unbuffered queries are active.  Consider using PDOStatement::fetchAll().  Alternatively, if your code is only ever going to run against mysql, you may enable query buffering by setting the PDO::MYSQL_ATTR_USE_BUFFERED_QUERY attribute.: DELETE FROM "drup_semaphore" 
+WHERE "value" = :db_condition_placeholder_0; Array
+(
+    [:db_condition_placeholder_0] => 57675945464cb2512bf1c43.27994221
+)
+ in /home/feegosys/decannabis.shop/core/modules/mysql/src/Driver/Database/mysql/ExceptionHandler.php:53
+Stack trace:
+#0 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Database/Query/Delete.php(63): Drupal\mysql\Driver\Database\mysql\ExceptionHandler->handleExecutionException(Object(PDOException), Object(Drupal\Core\Database\StatementWrapper), Array, Array)
+#1 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Lock/DatabaseLockBackend.php(170): Drupal\Core\Database\Query\Delete->execute()
+#2 /home/feegosys/decannabis.shop/core/includes/bootstrap.inc(734): Drupal\Core\Lock\DatabaseLockBackend->releaseAll()
+#3 [internal function]: _drupal_shutdown_function()
+#4 {main}
+[03-Aug-2023 21:43:02 UTC] PDOException: SQLSTATE[HY000]: General error: 2014 Cannot execute queries while other unbuffered queries are active.  Consider using PDOStatement::fetchAll().  Alternatively, if your code is only ever going to run against mysql, you may enable query buffering by setting the PDO::MYSQL_ATTR_USE_BUFFERED_QUERY attribute. in /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Database/StatementWrapper.php:145
+Stack trace:
+#0 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Database/StatementWrapper.php(145): PDOStatement->execute(Array)
+#1 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Database/Query/Delete.php(59): Drupal\Core\Database\StatementWrapper->execute(Array, Array)
+#2 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Lock/DatabaseLockBackend.php(170): Drupal\Core\Database\Query\Delete->execute()
+#3 /home/feegosys/decannabis.shop/core/includes/bootstrap.inc(734): Drupal\Core\Lock\DatabaseLockBackend->releaseAll()
+#4 [internal function]: _drupal_shutdown_function()
+#5 {main}
+
+Next Drupal\Core\Database\DatabaseExceptionWrapper: SQLSTATE[HY000]: General error: 2014 Cannot execute queries while other unbuffered queries are active.  Consider using PDOStatement::fetchAll().  Alternatively, if your code is only ever going to run against mysql, you may enable query buffering by setting the PDO::MYSQL_ATTR_USE_BUFFERED_QUERY attribute.: DELETE FROM "drup_semaphore" 
+WHERE "value" = :db_condition_placeholder_0; Array
+(
+    [:db_condition_placeholder_0] => 9745397564cc1f66bde062.60075932
+)
+ in /home/feegosys/decannabis.shop/core/modules/mysql/src/Driver/Database/mysql/ExceptionHandler.php:53
+Stack trace:
+#0 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Database/Query/Delete.php(63): Drupal\mysql\Driver\Database\mysql\ExceptionHandler->handleExecutionException(Object(PDOException), Object(Drupal\Core\Database\StatementWrapper), Array, Array)
+#1 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Lock/DatabaseLockBackend.php(170): Drupal\Core\Database\Query\Delete->execute()
+#2 /home/feegosys/decannabis.shop/core/includes/bootstrap.inc(734): Drupal\Core\Lock\DatabaseLockBackend->releaseAll()
+#3 [internal function]: _drupal_shutdown_function()
+#4 {main}
+[08-Aug-2023 00:09:58 UTC] PDOException: SQLSTATE[HY000]: General error: 2014 Cannot execute queries while other unbuffered queries are active.  Consider using PDOStatement::fetchAll().  Alternatively, if your code is only ever going to run against mysql, you may enable query buffering by setting the PDO::MYSQL_ATTR_USE_BUFFERED_QUERY attribute. in /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Database/StatementWrapper.php:145
+Stack trace:
+#0 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Database/StatementWrapper.php(145): PDOStatement->execute(Array)
+#1 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Database/Query/Delete.php(59): Drupal\Core\Database\StatementWrapper->execute(Array, Array)
+#2 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Lock/DatabaseLockBackend.php(170): Drupal\Core\Database\Query\Delete->execute()
+#3 /home/feegosys/decannabis.shop/core/includes/bootstrap.inc(734): Drupal\Core\Lock\DatabaseLockBackend->releaseAll()
+#4 [internal function]: _drupal_shutdown_function()
+#5 {main}
+
+Next Drupal\Core\Database\DatabaseExceptionWrapper: SQLSTATE[HY000]: General error: 2014 Cannot execute queries while other unbuffered queries are active.  Consider using PDOStatement::fetchAll().  Alternatively, if your code is only ever going to run against mysql, you may enable query buffering by setting the PDO::MYSQL_ATTR_USE_BUFFERED_QUERY attribute.: DELETE FROM "drup_semaphore" 
+WHERE "value" = :db_condition_placeholder_0; Array
+(
+    [:db_condition_placeholder_0] => 115801091964d187d66d8521.49954533
+)
+ in /home/feegosys/decannabis.shop/core/modules/mysql/src/Driver/Database/mysql/ExceptionHandler.php:53
+Stack trace:
+#0 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Database/Query/Delete.php(63): Drupal\mysql\Driver\Database\mysql\ExceptionHandler->handleExecutionException(Object(PDOException), Object(Drupal\Core\Database\StatementWrapper), Array, Array)
+#1 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Lock/DatabaseLockBackend.php(170): Drupal\Core\Database\Query\Delete->execute()
+#2 /home/feegosys/decannabis.shop/core/includes/bootstrap.inc(734): Drupal\Core\Lock\DatabaseLockBackend->releaseAll()
+#3 [internal function]: _drupal_shutdown_function()
+#4 {main}
+[14-Aug-2023 20:34:49 UTC] TypeError: key(): Argument #1 ($array) must be of type array, null given in /home/feegosys/decannabis.shop/core/modules/user/src/AccountForm.php on line 362 #0 /home/feegosys/decannabis.shop/core/modules/user/src/AccountForm.php(362): key(NULL)
+#1 /home/feegosys/decannabis.shop/modules/simple_multistep/simple_multistep.module(57): Drupal\user\AccountForm->buildEntity(Array, Object(Drupal\Core\Form\FormState))
+#2 [internal function]: simple_multistep_register_next_step(Array, Object(Drupal\Core\Form\FormState))
+#3 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Form/FormSubmitter.php(114): call_user_func_array('simple_multiste...', Array)
+#4 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Form/FormSubmitter.php(52): Drupal\Core\Form\FormSubmitter->executeSubmitHandlers(Array, Object(Drupal\Core\Form\FormState))
+#5 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Form/FormBuilder.php(592): Drupal\Core\Form\FormSubmitter->doSubmitForm(Array, Object(Drupal\Core\Form\FormState))
+#6 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Form/FormBuilder.php(320): Drupal\Core\Form\FormBuilder->processForm('user_register_f...', Array, Object(Drupal\Core\Form\FormState))
+#7 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Controller/FormController.php(73): Drupal\Core\Form\FormBuilder->buildForm(Object(Drupal\user\RegisterForm), Object(Drupal\Core\Form\FormState))
+#8 /home/feegosys/decannabis.shop/core/modules/layout_builder/src/Controller/LayoutBuilderHtmlEntityFormController.php(39): Drupal\Core\Controller\FormController->getContentResult(Object(Symfony\Component\HttpFoundation\Request), Object(Drupal\Core\Routing\RouteMatch))
+#9 [internal function]: Drupal\layout_builder\Controller\LayoutBuilderHtmlEntityFormController->getContentResult(Object(Symfony\Component\HttpFoundation\Request), Object(Drupal\Core\Routing\RouteMatch))
+#10 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/EventSubscriber/EarlyRenderingControllerWrapperSubscriber.php(123): call_user_func_array(Array, Array)
+#11 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Render/Renderer.php(564): Drupal\Core\EventSubscriber\EarlyRenderingControllerWrapperSubscriber->Drupal\Core\EventSubscriber\{closure}()
+#12 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/EventSubscriber/EarlyRenderingControllerWrapperSubscriber.php(124): Drupal\Core\Render\Renderer->executeInRenderContext(Object(Drupal\Core\Render\RenderContext), Object(Closure))
+#13 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/EventSubscriber/EarlyRenderingControllerWrapperSubscriber.php(97): Drupal\Core\EventSubscriber\EarlyRenderingControllerWrapperSubscriber->wrapControllerExecutionInRenderContext(Array, Array)
+#14 /home/feegosys/decannabis.shop/vendor/symfony/http-kernel/HttpKernel.php(159): Drupal\Core\EventSubscriber\EarlyRenderingControllerWrapperSubscriber->Drupal\Core\EventSubscriber\{closure}()
+#15 /home/feegosys/decannabis.shop/vendor/symfony/http-kernel/HttpKernel.php(81): Symfony\Component\HttpKernel\HttpKernel->handleRaw(Object(Symfony\Component\HttpFoundation\Request), 1)
+#16 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/StackMiddleware/Session.php(58): Symfony\Component\HttpKernel\HttpKernel->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#17 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/StackMiddleware/KernelPreHandle.php(48): Drupal\Core\StackMiddleware\Session->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#18 /home/feegosys/decannabis.shop/core/modules/page_cache/src/StackMiddleware/PageCache.php(106): Drupal\Core\StackMiddleware\KernelPreHandle->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#19 /home/feegosys/decannabis.shop/core/modules/page_cache/src/StackMiddleware/PageCache.php(85): Drupal\page_cache\StackMiddleware\PageCache->pass(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#20 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/StackMiddleware/ReverseProxyMiddleware.php(48): Drupal\page_cache\StackMiddleware\PageCache->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#21 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/StackMiddleware/NegotiationMiddleware.php(51): Drupal\Core\StackMiddleware\ReverseProxyMiddleware->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#22 /home/feegosys/decannabis.shop/vendor/stack/builder/src/Stack/StackedHttpKernel.php(23): Drupal\Core\StackMiddleware\NegotiationMiddleware->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#23 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/DrupalKernel.php(709): Stack\StackedHttpKernel->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#24 /home/feegosys/decannabis.shop/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#25 {main}
+[14-Aug-2023 20:35:01 UTC] TypeError: key(): Argument #1 ($array) must be of type array, null given in /home/feegosys/decannabis.shop/core/modules/user/src/AccountForm.php on line 362 #0 /home/feegosys/decannabis.shop/core/modules/user/src/AccountForm.php(362): key(NULL)
+#1 /home/feegosys/decannabis.shop/modules/simple_multistep/simple_multistep.module(57): Drupal\user\AccountForm->buildEntity(Array, Object(Drupal\Core\Form\FormState))
+#2 [internal function]: simple_multistep_register_next_step(Array, Object(Drupal\Core\Form\FormState))
+#3 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Form/FormSubmitter.php(114): call_user_func_array('simple_multiste...', Array)
+#4 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Form/FormSubmitter.php(52): Drupal\Core\Form\FormSubmitter->executeSubmitHandlers(Array, Object(Drupal\Core\Form\FormState))
+#5 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Form/FormBuilder.php(592): Drupal\Core\Form\FormSubmitter->doSubmitForm(Array, Object(Drupal\Core\Form\FormState))
+#6 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Form/FormBuilder.php(320): Drupal\Core\Form\FormBuilder->processForm('user_register_f...', Array, Object(Drupal\Core\Form\FormState))
+#7 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Controller/FormController.php(73): Drupal\Core\Form\FormBuilder->buildForm(Object(Drupal\user\RegisterForm), Object(Drupal\Core\Form\FormState))
+#8 /home/feegosys/decannabis.shop/core/modules/layout_builder/src/Controller/LayoutBuilderHtmlEntityFormController.php(39): Drupal\Core\Controller\FormController->getContentResult(Object(Symfony\Component\HttpFoundation\Request), Object(Drupal\Core\Routing\RouteMatch))
+#9 [internal function]: Drupal\layout_builder\Controller\LayoutBuilderHtmlEntityFormController->getContentResult(Object(Symfony\Component\HttpFoundation\Request), Object(Drupal\Core\Routing\RouteMatch))
+#10 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/EventSubscriber/EarlyRenderingControllerWrapperSubscriber.php(123): call_user_func_array(Array, Array)
+#11 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Render/Renderer.php(564): Drupal\Core\EventSubscriber\EarlyRenderingControllerWrapperSubscriber->Drupal\Core\EventSubscriber\{closure}()
+#12 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/EventSubscriber/EarlyRenderingControllerWrapperSubscriber.php(124): Drupal\Core\Render\Renderer->executeInRenderContext(Object(Drupal\Core\Render\RenderContext), Object(Closure))
+#13 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/EventSubscriber/EarlyRenderingControllerWrapperSubscriber.php(97): Drupal\Core\EventSubscriber\EarlyRenderingControllerWrapperSubscriber->wrapControllerExecutionInRenderContext(Array, Array)
+#14 /home/feegosys/decannabis.shop/vendor/symfony/http-kernel/HttpKernel.php(159): Drupal\Core\EventSubscriber\EarlyRenderingControllerWrapperSubscriber->Drupal\Core\EventSubscriber\{closure}()
+#15 /home/feegosys/decannabis.shop/vendor/symfony/http-kernel/HttpKernel.php(81): Symfony\Component\HttpKernel\HttpKernel->handleRaw(Object(Symfony\Component\HttpFoundation\Request), 1)
+#16 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/StackMiddleware/Session.php(58): Symfony\Component\HttpKernel\HttpKernel->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#17 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/StackMiddleware/KernelPreHandle.php(48): Drupal\Core\StackMiddleware\Session->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#18 /home/feegosys/decannabis.shop/core/modules/page_cache/src/StackMiddleware/PageCache.php(106): Drupal\Core\StackMiddleware\KernelPreHandle->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#19 /home/feegosys/decannabis.shop/core/modules/page_cache/src/StackMiddleware/PageCache.php(85): Drupal\page_cache\StackMiddleware\PageCache->pass(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#20 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/StackMiddleware/ReverseProxyMiddleware.php(48): Drupal\page_cache\StackMiddleware\PageCache->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#21 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/StackMiddleware/NegotiationMiddleware.php(51): Drupal\Core\StackMiddleware\ReverseProxyMiddleware->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#22 /home/feegosys/decannabis.shop/vendor/stack/builder/src/Stack/StackedHttpKernel.php(23): Drupal\Core\StackMiddleware\NegotiationMiddleware->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#23 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/DrupalKernel.php(709): Stack\StackedHttpKernel->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#24 /home/feegosys/decannabis.shop/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#25 {main}
+[14-Aug-2023 20:38:41 UTC] TypeError: key(): Argument #1 ($array) must be of type array, null given in /home/feegosys/decannabis.shop/core/modules/user/src/AccountForm.php on line 362 #0 /home/feegosys/decannabis.shop/core/modules/user/src/AccountForm.php(362): key(NULL)
+#1 /home/feegosys/decannabis.shop/modules/simple_multistep/simple_multistep.module(57): Drupal\user\AccountForm->buildEntity(Array, Object(Drupal\Core\Form\FormState))
+#2 [internal function]: simple_multistep_register_next_step(Array, Object(Drupal\Core\Form\FormState))
+#3 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Form/FormSubmitter.php(114): call_user_func_array('simple_multiste...', Array)
+#4 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Form/FormSubmitter.php(52): Drupal\Core\Form\FormSubmitter->executeSubmitHandlers(Array, Object(Drupal\Core\Form\FormState))
+#5 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Form/FormBuilder.php(592): Drupal\Core\Form\FormSubmitter->doSubmitForm(Array, Object(Drupal\Core\Form\FormState))
+#6 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Form/FormBuilder.php(320): Drupal\Core\Form\FormBuilder->processForm('user_register_f...', Array, Object(Drupal\Core\Form\FormState))
+#7 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Controller/FormController.php(73): Drupal\Core\Form\FormBuilder->buildForm(Object(Drupal\user\RegisterForm), Object(Drupal\Core\Form\FormState))
+#8 /home/feegosys/decannabis.shop/core/modules/layout_builder/src/Controller/LayoutBuilderHtmlEntityFormController.php(39): Drupal\Core\Controller\FormController->getContentResult(Object(Symfony\Component\HttpFoundation\Request), Object(Drupal\Core\Routing\RouteMatch))
+#9 [internal function]: Drupal\layout_builder\Controller\LayoutBuilderHtmlEntityFormController->getContentResult(Object(Symfony\Component\HttpFoundation\Request), Object(Drupal\Core\Routing\RouteMatch))
+#10 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/EventSubscriber/EarlyRenderingControllerWrapperSubscriber.php(123): call_user_func_array(Array, Array)
+#11 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Render/Renderer.php(564): Drupal\Core\EventSubscriber\EarlyRenderingControllerWrapperSubscriber->Drupal\Core\EventSubscriber\{closure}()
+#12 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/EventSubscriber/EarlyRenderingControllerWrapperSubscriber.php(124): Drupal\Core\Render\Renderer->executeInRenderContext(Object(Drupal\Core\Render\RenderContext), Object(Closure))
+#13 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/EventSubscriber/EarlyRenderingControllerWrapperSubscriber.php(97): Drupal\Core\EventSubscriber\EarlyRenderingControllerWrapperSubscriber->wrapControllerExecutionInRenderContext(Array, Array)
+#14 /home/feegosys/decannabis.shop/vendor/symfony/http-kernel/HttpKernel.php(159): Drupal\Core\EventSubscriber\EarlyRenderingControllerWrapperSubscriber->Drupal\Core\EventSubscriber\{closure}()
+#15 /home/feegosys/decannabis.shop/vendor/symfony/http-kernel/HttpKernel.php(81): Symfony\Component\HttpKernel\HttpKernel->handleRaw(Object(Symfony\Component\HttpFoundation\Request), 1)
+#16 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/StackMiddleware/Session.php(58): Symfony\Component\HttpKernel\HttpKernel->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#17 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/StackMiddleware/KernelPreHandle.php(48): Drupal\Core\StackMiddleware\Session->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#18 /home/feegosys/decannabis.shop/core/modules/page_cache/src/StackMiddleware/PageCache.php(106): Drupal\Core\StackMiddleware\KernelPreHandle->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#19 /home/feegosys/decannabis.shop/core/modules/page_cache/src/StackMiddleware/PageCache.php(85): Drupal\page_cache\StackMiddleware\PageCache->pass(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#20 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/StackMiddleware/ReverseProxyMiddleware.php(48): Drupal\page_cache\StackMiddleware\PageCache->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#21 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/StackMiddleware/NegotiationMiddleware.php(51): Drupal\Core\StackMiddleware\ReverseProxyMiddleware->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#22 /home/feegosys/decannabis.shop/vendor/stack/builder/src/Stack/StackedHttpKernel.php(23): Drupal\Core\StackMiddleware\NegotiationMiddleware->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#23 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/DrupalKernel.php(709): Stack\StackedHttpKernel->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#24 /home/feegosys/decannabis.shop/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#25 {main}
+[14-Aug-2023 20:39:01 UTC] TypeError: key(): Argument #1 ($array) must be of type array, null given in /home/feegosys/decannabis.shop/core/modules/user/src/AccountForm.php on line 362 #0 /home/feegosys/decannabis.shop/core/modules/user/src/AccountForm.php(362): key(NULL)
+#1 /home/feegosys/decannabis.shop/modules/simple_multistep/simple_multistep.module(57): Drupal\user\AccountForm->buildEntity(Array, Object(Drupal\Core\Form\FormState))
+#2 [internal function]: simple_multistep_register_next_step(Array, Object(Drupal\Core\Form\FormState))
+#3 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Form/FormSubmitter.php(114): call_user_func_array('simple_multiste...', Array)
+#4 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Form/FormSubmitter.php(52): Drupal\Core\Form\FormSubmitter->executeSubmitHandlers(Array, Object(Drupal\Core\Form\FormState))
+#5 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Form/FormBuilder.php(592): Drupal\Core\Form\FormSubmitter->doSubmitForm(Array, Object(Drupal\Core\Form\FormState))
+#6 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Form/FormBuilder.php(320): Drupal\Core\Form\FormBuilder->processForm('user_register_f...', Array, Object(Drupal\Core\Form\FormState))
+#7 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Controller/FormController.php(73): Drupal\Core\Form\FormBuilder->buildForm(Object(Drupal\user\RegisterForm), Object(Drupal\Core\Form\FormState))
+#8 /home/feegosys/decannabis.shop/core/modules/layout_builder/src/Controller/LayoutBuilderHtmlEntityFormController.php(39): Drupal\Core\Controller\FormController->getContentResult(Object(Symfony\Component\HttpFoundation\Request), Object(Drupal\Core\Routing\RouteMatch))
+#9 [internal function]: Drupal\layout_builder\Controller\LayoutBuilderHtmlEntityFormController->getContentResult(Object(Symfony\Component\HttpFoundation\Request), Object(Drupal\Core\Routing\RouteMatch))
+#10 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/EventSubscriber/EarlyRenderingControllerWrapperSubscriber.php(123): call_user_func_array(Array, Array)
+#11 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Render/Renderer.php(564): Drupal\Core\EventSubscriber\EarlyRenderingControllerWrapperSubscriber->Drupal\Core\EventSubscriber\{closure}()
+#12 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/EventSubscriber/EarlyRenderingControllerWrapperSubscriber.php(124): Drupal\Core\Render\Renderer->executeInRenderContext(Object(Drupal\Core\Render\RenderContext), Object(Closure))
+#13 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/EventSubscriber/EarlyRenderingControllerWrapperSubscriber.php(97): Drupal\Core\EventSubscriber\EarlyRenderingControllerWrapperSubscriber->wrapControllerExecutionInRenderContext(Array, Array)
+#14 /home/feegosys/decannabis.shop/vendor/symfony/http-kernel/HttpKernel.php(159): Drupal\Core\EventSubscriber\EarlyRenderingControllerWrapperSubscriber->Drupal\Core\EventSubscriber\{closure}()
+#15 /home/feegosys/decannabis.shop/vendor/symfony/http-kernel/HttpKernel.php(81): Symfony\Component\HttpKernel\HttpKernel->handleRaw(Object(Symfony\Component\HttpFoundation\Request), 1)
+#16 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/StackMiddleware/Session.php(58): Symfony\Component\HttpKernel\HttpKernel->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#17 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/StackMiddleware/KernelPreHandle.php(48): Drupal\Core\StackMiddleware\Session->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#18 /home/feegosys/decannabis.shop/core/modules/page_cache/src/StackMiddleware/PageCache.php(106): Drupal\Core\StackMiddleware\KernelPreHandle->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#19 /home/feegosys/decannabis.shop/core/modules/page_cache/src/StackMiddleware/PageCache.php(85): Drupal\page_cache\StackMiddleware\PageCache->pass(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#20 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/StackMiddleware/ReverseProxyMiddleware.php(48): Drupal\page_cache\StackMiddleware\PageCache->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#21 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/StackMiddleware/NegotiationMiddleware.php(51): Drupal\Core\StackMiddleware\ReverseProxyMiddleware->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#22 /home/feegosys/decannabis.shop/vendor/stack/builder/src/Stack/StackedHttpKernel.php(23): Drupal\Core\StackMiddleware\NegotiationMiddleware->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#23 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/DrupalKernel.php(709): Stack\StackedHttpKernel->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#24 /home/feegosys/decannabis.shop/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#25 {main}
+[14-Aug-2023 20:41:07 UTC] TypeError: key(): Argument #1 ($array) must be of type array, null given in /home/feegosys/decannabis.shop/core/modules/user/src/AccountForm.php on line 362 #0 /home/feegosys/decannabis.shop/core/modules/user/src/AccountForm.php(362): key(NULL)
+#1 /home/feegosys/decannabis.shop/modules/simple_multistep/simple_multistep.module(57): Drupal\user\AccountForm->buildEntity(Array, Object(Drupal\Core\Form\FormState))
+#2 [internal function]: simple_multistep_register_next_step(Array, Object(Drupal\Core\Form\FormState))
+#3 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Form/FormSubmitter.php(114): call_user_func_array('simple_multiste...', Array)
+#4 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Form/FormSubmitter.php(52): Drupal\Core\Form\FormSubmitter->executeSubmitHandlers(Array, Object(Drupal\Core\Form\FormState))
+#5 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Form/FormBuilder.php(592): Drupal\Core\Form\FormSubmitter->doSubmitForm(Array, Object(Drupal\Core\Form\FormState))
+#6 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Form/FormBuilder.php(320): Drupal\Core\Form\FormBuilder->processForm('user_register_f...', Array, Object(Drupal\Core\Form\FormState))
+#7 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Controller/FormController.php(73): Drupal\Core\Form\FormBuilder->buildForm(Object(Drupal\user\RegisterForm), Object(Drupal\Core\Form\FormState))
+#8 /home/feegosys/decannabis.shop/core/modules/layout_builder/src/Controller/LayoutBuilderHtmlEntityFormController.php(39): Drupal\Core\Controller\FormController->getContentResult(Object(Symfony\Component\HttpFoundation\Request), Object(Drupal\Core\Routing\RouteMatch))
+#9 [internal function]: Drupal\layout_builder\Controller\LayoutBuilderHtmlEntityFormController->getContentResult(Object(Symfony\Component\HttpFoundation\Request), Object(Drupal\Core\Routing\RouteMatch))
+#10 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/EventSubscriber/EarlyRenderingControllerWrapperSubscriber.php(123): call_user_func_array(Array, Array)
+#11 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Render/Renderer.php(564): Drupal\Core\EventSubscriber\EarlyRenderingControllerWrapperSubscriber->Drupal\Core\EventSubscriber\{closure}()
+#12 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/EventSubscriber/EarlyRenderingControllerWrapperSubscriber.php(124): Drupal\Core\Render\Renderer->executeInRenderContext(Object(Drupal\Core\Render\RenderContext), Object(Closure))
+#13 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/EventSubscriber/EarlyRenderingControllerWrapperSubscriber.php(97): Drupal\Core\EventSubscriber\EarlyRenderingControllerWrapperSubscriber->wrapControllerExecutionInRenderContext(Array, Array)
+#14 /home/feegosys/decannabis.shop/vendor/symfony/http-kernel/HttpKernel.php(159): Drupal\Core\EventSubscriber\EarlyRenderingControllerWrapperSubscriber->Drupal\Core\EventSubscriber\{closure}()
+#15 /home/feegosys/decannabis.shop/vendor/symfony/http-kernel/HttpKernel.php(81): Symfony\Component\HttpKernel\HttpKernel->handleRaw(Object(Symfony\Component\HttpFoundation\Request), 1)
+#16 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/StackMiddleware/Session.php(58): Symfony\Component\HttpKernel\HttpKernel->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#17 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/StackMiddleware/KernelPreHandle.php(48): Drupal\Core\StackMiddleware\Session->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#18 /home/feegosys/decannabis.shop/core/modules/page_cache/src/StackMiddleware/PageCache.php(106): Drupal\Core\StackMiddleware\KernelPreHandle->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#19 /home/feegosys/decannabis.shop/core/modules/page_cache/src/StackMiddleware/PageCache.php(85): Drupal\page_cache\StackMiddleware\PageCache->pass(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#20 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/StackMiddleware/ReverseProxyMiddleware.php(48): Drupal\page_cache\StackMiddleware\PageCache->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#21 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/StackMiddleware/NegotiationMiddleware.php(51): Drupal\Core\StackMiddleware\ReverseProxyMiddleware->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#22 /home/feegosys/decannabis.shop/vendor/stack/builder/src/Stack/StackedHttpKernel.php(23): Drupal\Core\StackMiddleware\NegotiationMiddleware->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#23 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/DrupalKernel.php(709): Stack\StackedHttpKernel->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#24 /home/feegosys/decannabis.shop/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#25 {main}
+[14-Aug-2023 20:48:59 UTC] TypeError: key(): Argument #1 ($array) must be of type array, null given in /home/feegosys/decannabis.shop/core/modules/user/src/AccountForm.php on line 362 #0 /home/feegosys/decannabis.shop/core/modules/user/src/AccountForm.php(362): key(NULL)
+#1 /home/feegosys/decannabis.shop/modules/simple_multistep/simple_multistep.module(57): Drupal\user\AccountForm->buildEntity(Array, Object(Drupal\Core\Form\FormState))
+#2 [internal function]: simple_multistep_register_next_step(Array, Object(Drupal\Core\Form\FormState))
+#3 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Form/FormSubmitter.php(114): call_user_func_array('simple_multiste...', Array)
+#4 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Form/FormSubmitter.php(52): Drupal\Core\Form\FormSubmitter->executeSubmitHandlers(Array, Object(Drupal\Core\Form\FormState))
+#5 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Form/FormBuilder.php(592): Drupal\Core\Form\FormSubmitter->doSubmitForm(Array, Object(Drupal\Core\Form\FormState))
+#6 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Form/FormBuilder.php(320): Drupal\Core\Form\FormBuilder->processForm('user_form', Array, Object(Drupal\Core\Form\FormState))
+#7 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Entity/EntityFormBuilder.php(48): Drupal\Core\Form\FormBuilder->buildForm(Object(Drupal\user\ProfileForm), Object(Drupal\Core\Form\FormState))
+#8 /home/feegosys/decannabis.shop/modules/forms_steps/src/Controller/FormsStepsController.php(176): Drupal\Core\Entity\EntityFormBuilder->getForm(Object(Drupal\user\Entity\User), 'default', Array)
+#9 /home/feegosys/decannabis.shop/modules/forms_steps/src/Controller/FormsStepsController.php(40): Drupal\forms_steps\Controller\FormsStepsController::getForm('register_form', Object(Drupal\forms_steps\Step), '')
+#10 [internal function]: Drupal\forms_steps\Controller\FormsStepsController->step('register_form', 'paso1_register', '')
+#11 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/EventSubscriber/EarlyRenderingControllerWrapperSubscriber.php(123): call_user_func_array(Array, Array)
+#12 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Render/Renderer.php(564): Drupal\Core\EventSubscriber\EarlyRenderingControllerWrapperSubscriber->Drupal\Core\EventSubscriber\{closure}()
+#13 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/EventSubscriber/EarlyRenderingControllerWrapperSubscriber.php(124): Drupal\Core\Render\Renderer->executeInRenderContext(Object(Drupal\Core\Render\RenderContext), Object(Closure))
+#14 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/EventSubscriber/EarlyRenderingControllerWrapperSubscriber.php(97): Drupal\Core\EventSubscriber\EarlyRenderingControllerWrapperSubscriber->wrapControllerExecutionInRenderContext(Array, Array)
+#15 /home/feegosys/decannabis.shop/vendor/symfony/http-kernel/HttpKernel.php(159): Drupal\Core\EventSubscriber\EarlyRenderingControllerWrapperSubscriber->Drupal\Core\EventSubscriber\{closure}()
+#16 /home/feegosys/decannabis.shop/vendor/symfony/http-kernel/HttpKernel.php(81): Symfony\Component\HttpKernel\HttpKernel->handleRaw(Object(Symfony\Component\HttpFoundation\Request), 1)
+#17 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/StackMiddleware/Session.php(58): Symfony\Component\HttpKernel\HttpKernel->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#18 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/StackMiddleware/KernelPreHandle.php(48): Drupal\Core\StackMiddleware\Session->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#19 /home/feegosys/decannabis.shop/core/modules/page_cache/src/StackMiddleware/PageCache.php(106): Drupal\Core\StackMiddleware\KernelPreHandle->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#20 /home/feegosys/decannabis.shop/core/modules/page_cache/src/StackMiddleware/PageCache.php(85): Drupal\page_cache\StackMiddleware\PageCache->pass(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#21 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/StackMiddleware/ReverseProxyMiddleware.php(48): Drupal\page_cache\StackMiddleware\PageCache->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#22 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/StackMiddleware/NegotiationMiddleware.php(51): Drupal\Core\StackMiddleware\ReverseProxyMiddleware->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#23 /home/feegosys/decannabis.shop/vendor/stack/builder/src/Stack/StackedHttpKernel.php(23): Drupal\Core\StackMiddleware\NegotiationMiddleware->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#24 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/DrupalKernel.php(709): Stack\StackedHttpKernel->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#25 /home/feegosys/decannabis.shop/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#26 {main}
+[14-Aug-2023 20:50:01 UTC] TypeError: key(): Argument #1 ($array) must be of type array, null given in /home/feegosys/decannabis.shop/core/modules/user/src/AccountForm.php on line 362 #0 /home/feegosys/decannabis.shop/core/modules/user/src/AccountForm.php(362): key(NULL)
+#1 /home/feegosys/decannabis.shop/modules/simple_multistep/simple_multistep.module(57): Drupal\user\AccountForm->buildEntity(Array, Object(Drupal\Core\Form\FormState))
+#2 [internal function]: simple_multistep_register_next_step(Array, Object(Drupal\Core\Form\FormState))
+#3 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Form/FormSubmitter.php(114): call_user_func_array('simple_multiste...', Array)
+#4 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Form/FormSubmitter.php(52): Drupal\Core\Form\FormSubmitter->executeSubmitHandlers(Array, Object(Drupal\Core\Form\FormState))
+#5 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Form/FormBuilder.php(592): Drupal\Core\Form\FormSubmitter->doSubmitForm(Array, Object(Drupal\Core\Form\FormState))
+#6 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Form/FormBuilder.php(320): Drupal\Core\Form\FormBuilder->processForm('user_form', Array, Object(Drupal\Core\Form\FormState))
+#7 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Entity/EntityFormBuilder.php(48): Drupal\Core\Form\FormBuilder->buildForm(Object(Drupal\user\ProfileForm), Object(Drupal\Core\Form\FormState))
+#8 /home/feegosys/decannabis.shop/modules/forms_steps/src/Controller/FormsStepsController.php(176): Drupal\Core\Entity\EntityFormBuilder->getForm(Object(Drupal\user\Entity\User), 'default', Array)
+#9 /home/feegosys/decannabis.shop/modules/forms_steps/src/Controller/FormsStepsController.php(40): Drupal\forms_steps\Controller\FormsStepsController::getForm('register_form', Object(Drupal\forms_steps\Step), '')
+#10 [internal function]: Drupal\forms_steps\Controller\FormsStepsController->step('register_form', 'paso1_register', '')
+#11 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/EventSubscriber/EarlyRenderingControllerWrapperSubscriber.php(123): call_user_func_array(Array, Array)
+#12 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Render/Renderer.php(564): Drupal\Core\EventSubscriber\EarlyRenderingControllerWrapperSubscriber->Drupal\Core\EventSubscriber\{closure}()
+#13 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/EventSubscriber/EarlyRenderingControllerWrapperSubscriber.php(124): Drupal\Core\Render\Renderer->executeInRenderContext(Object(Drupal\Core\Render\RenderContext), Object(Closure))
+#14 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/EventSubscriber/EarlyRenderingControllerWrapperSubscriber.php(97): Drupal\Core\EventSubscriber\EarlyRenderingControllerWrapperSubscriber->wrapControllerExecutionInRenderContext(Array, Array)
+#15 /home/feegosys/decannabis.shop/vendor/symfony/http-kernel/HttpKernel.php(159): Drupal\Core\EventSubscriber\EarlyRenderingControllerWrapperSubscriber->Drupal\Core\EventSubscriber\{closure}()
+#16 /home/feegosys/decannabis.shop/vendor/symfony/http-kernel/HttpKernel.php(81): Symfony\Component\HttpKernel\HttpKernel->handleRaw(Object(Symfony\Component\HttpFoundation\Request), 1)
+#17 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/StackMiddleware/Session.php(58): Symfony\Component\HttpKernel\HttpKernel->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#18 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/StackMiddleware/KernelPreHandle.php(48): Drupal\Core\StackMiddleware\Session->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#19 /home/feegosys/decannabis.shop/core/modules/page_cache/src/StackMiddleware/PageCache.php(106): Drupal\Core\StackMiddleware\KernelPreHandle->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#20 /home/feegosys/decannabis.shop/core/modules/page_cache/src/StackMiddleware/PageCache.php(85): Drupal\page_cache\StackMiddleware\PageCache->pass(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#21 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/StackMiddleware/ReverseProxyMiddleware.php(48): Drupal\page_cache\StackMiddleware\PageCache->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#22 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/StackMiddleware/NegotiationMiddleware.php(51): Drupal\Core\StackMiddleware\ReverseProxyMiddleware->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#23 /home/feegosys/decannabis.shop/vendor/stack/builder/src/Stack/StackedHttpKernel.php(23): Drupal\Core\StackMiddleware\NegotiationMiddleware->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#24 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/DrupalKernel.php(709): Stack\StackedHttpKernel->handle(Object(Symfony\Component\HttpFoundation\Request), 1, true)
+#25 /home/feegosys/decannabis.shop/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#26 {main}
+[15-Aug-2023 23:31:01 UTC] PDOException: SQLSTATE[08004] [1040] Too many connections in /home/feegosys/decannabis.shop/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/feegosys/decannabis.shop/core/modules/mysql/src/Driver/Database/mysql/Connection.php(189): PDO->__construct('mysql:host=loca...', 'feegosys_drup3', 'X.ujUmeZGarWvRk...', Array)
+#1 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Database/Database.php(464): Drupal\mysql\Driver\Database\mysql\Connection::open(Array)
+#2 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Database/Database.php(189): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/feegosys/decannabis.shop/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/feegosys/decannabis.shop/core/lib/Drupal/Component/DependencyInjection/Container.php(176): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/feegosys/decannabis.shop/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(212): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/feegosys/decannabis.shop/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/feegosys/decannabis.shop/core/lib/Drupal/Component/DependencyInjection/Container.php(176): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/DrupalKernel.php(550): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/DrupalKernel.php(895): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/DrupalKernel.php(472): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/DrupalKernel.php(708): Drupal\Core\DrupalKernel->boot()
+#13 /home/feegosys/decannabis.shop/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[15-Aug-2023 23:31:01 UTC] PDOException: SQLSTATE[08004] [1040] Too many connections in /home/feegosys/decannabis.shop/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/feegosys/decannabis.shop/core/modules/mysql/src/Driver/Database/mysql/Connection.php(189): PDO->__construct('mysql:host=loca...', 'feegosys_drup3', 'X.ujUmeZGarWvRk...', Array)
+#1 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Database/Database.php(464): Drupal\mysql\Driver\Database\mysql\Connection::open(Array)
+#2 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Database/Database.php(189): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/feegosys/decannabis.shop/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/feegosys/decannabis.shop/core/lib/Drupal/Component/DependencyInjection/Container.php(176): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/feegosys/decannabis.shop/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(212): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/feegosys/decannabis.shop/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/feegosys/decannabis.shop/core/lib/Drupal/Component/DependencyInjection/Container.php(176): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/DrupalKernel.php(550): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/DrupalKernel.php(895): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/DrupalKernel.php(472): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/DrupalKernel.php(708): Drupal\Core\DrupalKernel->boot()
+#13 /home/feegosys/decannabis.shop/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[15-Aug-2023 23:31:02 UTC] PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/feegosys/decannabis.shop/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php on line 79 #0 /home/feegosys/decannabis.shop/core/modules/mysql/src/Driver/Database/mysql/Connection.php(189): PDO->__construct('mysql:host=loca...', 'feegosys_drup3', 'X.ujUmeZGarWvRk...', Array)
+#1 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Database/Database.php(464): Drupal\mysql\Driver\Database\mysql\Connection::open(Array)
+#2 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Database/Database.php(189): Drupal\Core\Database\Database::openConnection('default', 'default')
+#3 [internal function]: Drupal\Core\Database\Database::getConnection('default')
+#4 /home/feegosys/decannabis.shop/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(79): call_user_func_array('Drupal\\Core\\Dat...', Array)
+#5 /home/feegosys/decannabis.shop/core/lib/Drupal/Component/DependencyInjection/Container.php(176): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'database')
+#6 /home/feegosys/decannabis.shop/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(212): Drupal\Component\DependencyInjection\Container->get('database', 1)
+#7 /home/feegosys/decannabis.shop/core/lib/Drupal/Component/DependencyInjection/PhpArrayContainer.php(62): Drupal\Component\DependencyInjection\PhpArrayContainer->resolveServicesAndParameters(Array)
+#8 /home/feegosys/decannabis.shop/core/lib/Drupal/Component/DependencyInjection/Container.php(176): Drupal\Component\DependencyInjection\PhpArrayContainer->createService(Array, 'cache.container')
+#9 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/DrupalKernel.php(550): Drupal\Component\DependencyInjection\Container->get('cache.container')
+#10 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/DrupalKernel.php(895): Drupal\Core\DrupalKernel->getCachedContainerDefinition()
+#11 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/DrupalKernel.php(472): Drupal\Core\DrupalKernel->initializeContainer()
+#12 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/DrupalKernel.php(708): Drupal\Core\DrupalKernel->boot()
+#13 /home/feegosys/decannabis.shop/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#14 {main}
+[05-Sep-2023 15:50:55 UTC] PDOException: SQLSTATE[HY000]: General error: 2014 Cannot execute queries while other unbuffered queries are active.  Consider using PDOStatement::fetchAll().  Alternatively, if your code is only ever going to run against mysql, you may enable query buffering by setting the PDO::MYSQL_ATTR_USE_BUFFERED_QUERY attribute. in /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Database/StatementWrapper.php:145
+Stack trace:
+#0 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Database/StatementWrapper.php(145): PDOStatement->execute(Array)
+#1 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Database/Query/Delete.php(59): Drupal\Core\Database\StatementWrapper->execute(Array, Array)
+#2 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Lock/DatabaseLockBackend.php(170): Drupal\Core\Database\Query\Delete->execute()
+#3 /home/feegosys/decannabis.shop/core/includes/bootstrap.inc(734): Drupal\Core\Lock\DatabaseLockBackend->releaseAll()
+#4 [internal function]: _drupal_shutdown_function()
+#5 {main}
+
+Next Drupal\Core\Database\DatabaseExceptionWrapper: SQLSTATE[HY000]: General error: 2014 Cannot execute queries while other unbuffered queries are active.  Consider using PDOStatement::fetchAll().  Alternatively, if your code is only ever going to run against mysql, you may enable query buffering by setting the PDO::MYSQL_ATTR_USE_BUFFERED_QUERY attribute.: DELETE FROM "drup_semaphore" 
+WHERE "value" = :db_condition_placeholder_0; Array
+(
+    [:db_condition_placeholder_0] => 172191037364f74e5e071234.91270892
+)
+ in /home/feegosys/decannabis.shop/core/modules/mysql/src/Driver/Database/mysql/ExceptionHandler.php:53
+Stack trace:
+#0 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Database/Query/Delete.php(63): Drupal\mysql\Driver\Database\mysql\ExceptionHandler->handleExecutionException(Object(PDOException), Object(Drupal\Core\Database\StatementWrapper), Array, Array)
+#1 /home/feegosys/decannabis.shop/core/lib/Drupal/Core/Lock/DatabaseLockBackend.php(170): Drupal\Core\Database\Query\Delete->execute()
+#2 /home/feegosys/decannabis.shop/core/includes/bootstrap.inc(734): Drupal\Core\Lock\DatabaseLockBackend->releaseAll()
+#3 [internal function]: _drupal_shutdown_function()
+#4 {main}
